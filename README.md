@@ -76,7 +76,7 @@
 <br/>
 <br/>
 
-## Some Beutiful Names
+## My Exes
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -102,10 +102,10 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=ziyadkadekara&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/ziyadkadekara)
+[![computer-science](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=computer-science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/itasks)
+[![awesome-oss-saas](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=awesome-oss-saas&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/urfolio)
+[![rock_paper_scissors](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=rock_paper_scissors&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/web-projects)
+[![My Readme](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=ziyadkadekara&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/ziyadkadekara)
 
 <p align="left">
   <a href="https://github.com/ziyadkadekara?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
