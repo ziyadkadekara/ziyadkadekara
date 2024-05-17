@@ -100,8 +100,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
 
-## Top Open Source -
+ </p>
+ 
+## Top Open Projects -
 [![computer-science](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=computer-science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/computer-science)
 [![awesome-oss-saas](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=awesome-oss-saas&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/awesome-oss-saas)
 [![rock_paper_scissors](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=rock_paper_scissors&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/rock_paper_scissors)
