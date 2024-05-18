@@ -32,8 +32,8 @@
  <a href="https://instagram.com/ziyadkadekara" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ziyadkadekara" />
  </a> 
- <a href="https://facebook.com/ziyadkadekara" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ziyadkadekara"  />
+ <a href="https://exercism.org/profiles/ziyadkadekara" target="_blank">
+  <img src="https://img.shields.io/badge/Exercism-009CAB?&style=for-the-badge&logo=exercism&logoColor=white" alt="ziyadkadekara"  />
   </a> 
 </p>
 
@@ -42,7 +42,7 @@
  ## About me
  
 <p>
- <img align="right" width="350" src="coder.webp" alt="Coding gif" />
+ <img align="right" width="300" src="coder.webp" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do solving problems and finding solutions <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
