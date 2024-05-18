@@ -82,12 +82,13 @@
  </p>
  
 ## Top Open Projects -
+<div align="center">
 [![computer-science](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=computer-science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/computer-science)
 [![awesome-oss-saas](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=awesome-oss-saas&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/awesome-oss-saas)
 [![rock_paper_scissors](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=rock_paper_scissors&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/rock_paper_scissors)
 [![My Readme](https://github-readme-stats.vercel.app/api/pin/?username=ziyadkadekara&repo=ziyadkadekara&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ziyadkadekara/ziyadkadekara)
-
-<p align="left">
+</div>
+<p align="center">
   <a href="https://github.com/ziyadkadekara?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
