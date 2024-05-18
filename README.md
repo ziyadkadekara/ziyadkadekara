@@ -42,7 +42,7 @@
  ## About me
  
 <p>
- <img align="right" width="300" src="coder.webp" alt="Coding gif" />
+ <img align="right" width="350" src="coder.webp" alt="Coding gif" />
   
 ### About Me
 - 🎯 &emsp; Thriving on solving puzzles and crafting elegant solutions.
