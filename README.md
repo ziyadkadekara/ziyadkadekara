@@ -44,10 +44,14 @@
 <p>
  <img align="right" width="300" src="coder.webp" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do solving problems and finding solutions <br/>
- ❤️ &emsp; Love to writing code and learning new features<br/>
- 📧 &emsp; Reach me anytime through social medias<br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/ziyadkadekara/ziyadkadekara/issues)
+### About Me
+- 🎯 &emsp; Thriving on solving puzzles and crafting elegant solutions.
+- 💡 &emsp; Passionate about learning the latest tech—bugs, beware!
+- 🛠️ &emsp; Always building, always tinkering.
+- 🚀 &emsp; On a mission to explore new features and innovations.
+- 📬 &emsp; Always open for a chat on social media—let's connect!
+- 💭 &emsp; Got a question? Curious about something? [Ask me anything!](https://github.com/ziyadkadekara/ziyadkadekara/issues)
+- ⭐ &emsp; Don't forget to star my projects if you find them useful!
 
 </p>
 <br/>
