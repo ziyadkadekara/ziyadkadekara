@@ -37,9 +37,6 @@
   </a> 
 </p>
 
-
-<!-- About Section -->
- ## About me
  
 <p>
  <img align="right" width="400" src="coder.webp" alt="Coding gif" />
