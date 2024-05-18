@@ -15,28 +15,28 @@
     <br>
   </samp>
 </p>
-<!-- 
+
 <p align="center">
  <a href="https://ziyadkadekara.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ziyadkadekara" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/ziyadkadekara" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ziyadkadekara"/>
  </a>
- <!-- <a href="https://dev.to/ziyadkadekara" target="_blank">
+  <a href="https://dev.to/ziyadkadekara" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ziyadkadekara" />
- </a> --> <!-- 
- <a href="https://twitter.com/_ziyadkadekara" target="_blank">
+ </a>  
+ <a href="https://twitter.com/ZiyadKadekara" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_ziyadkadekara" target="_blank">
+ <a href="https://instagram.com/ziyadkadekara" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ziyadkadekara" />
  </a> 
- <a href="https://facebook.com/ziyadkadekara.dev" target="_blank">
+ <a href="https://facebook.com/ziyadkadekara" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ziyadkadekara"  />
   </a> 
 </p>
-<br />  -->
+
 
 <!-- About Section -->
  ## About me
@@ -52,7 +52,7 @@
 </p>
 <br/>
 
-## My Exes
+<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -74,9 +74,9 @@
 
 <br/>
 
-<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,python,firebase,bootstrap,html,css,vscode,figma,git,js,cs,php,mysql,github,gitlab,vscode,visualstudio,windows,ubuntu" 
+    <img src="https://skillicons.dev/icons?i=javascript,dart,flutter,python,firebase,bootstrap,html,css,vscode,figma,git,js,cs,php,mysql,github,gitlab,vscode,visualstudio,windows,ubuntu" 
 
  </p>
  
