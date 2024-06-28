@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/ziyadkadekara">
-    <img src="" alt="Ziyad's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziyadkadekara&theme=radical&border=7F3FBF&background=0D1117" alt="Ziyad's GitHub streak"/>
   </a>
 </p>
 
